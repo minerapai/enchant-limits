@@ -7,6 +7,12 @@
 - 필요한 모드: 없음 (Fabric Loader만 필요)
 - 설치: 서버에만 넣으면 됩니다. 접속하는 사람(클라이언트)은 이 모드가 없어도 됩니다.
 
+## 다운로드
+
+**[⬇ enchant-limits-1.0.0.jar 다운로드](https://github.com/minerapai/enchant-limits/releases/download/v1.0.0/enchant-limits-1.0.0.jar)**
+
+받은 jar 파일을 마인크래프트(또는 서버) 폴더의 `mods` 폴더에 넣으면 됩니다. 다른 버전은 [Releases](https://github.com/minerapai/enchant-limits/releases) 에 있습니다.
+
 ## 기능
 
 - 인챈트 테이블, 상자 보상, 주민 거래에서 나오는 무작위 인챈트는 최대 VI 레벨까지만 나옵니다. 그보다 높은 레벨은 모루로만 만들 수 있습니다.
