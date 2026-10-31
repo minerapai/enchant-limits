@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantlimits",
+  "version": "${version}",
+  "name": "Enchant Limits",
+  "description": "Server side: random enchantments (enchanting table, loot, trades) stop at level VI so higher levels only come from the anvil, and the anvil never says 'Too Expensive!' (cost capped at 39). Clients do not need this mod.",
+  "license": "MIT",
+  "environment": "server",
+  "mixins": [
+    "enchantlimits.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1"
+  }
+}
